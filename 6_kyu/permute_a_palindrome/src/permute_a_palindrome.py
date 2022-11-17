@@ -1,3 +1,5 @@
+#Kata in codewars: https://www.codewars.com/kata/58ae6ae22c3aaafc58000079
+
 def permute_a_palindrome (input): 
     
     return sum(input.count(c)%2 for c in set(input)) < 2

@@ -1,3 +1,5 @@
+#Kata in codewars: https://www.codewars.com/kata/59706036f6e5d1e22d000016
+
 def words_to_marks(s):
     
     alphabet = list(map(chr, range(97, 123)))

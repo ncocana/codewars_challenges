@@ -1,3 +1,5 @@
+#Kata in codewars: https://www.codewars.com/kata/5571f712ddf00b54420000ee
+
 def loose_change(cents):
     
     change_dict = {'Nickels': 0, 'Pennies': 0, 'Dimes': 0, 'Quarters': 0}

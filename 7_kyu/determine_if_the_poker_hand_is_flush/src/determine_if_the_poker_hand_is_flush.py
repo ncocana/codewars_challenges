@@ -1,3 +1,5 @@
+#Kata in codewars: https://www.codewars.com/kata/5acbc3b3481ebb23a400007d
+
 def is_flush(cards):
     
     return len(set([c[len(c)-1] for c in cards]))==1
