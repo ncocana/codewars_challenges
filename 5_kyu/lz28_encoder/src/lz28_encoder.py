@@ -1,3 +1,5 @@
+#Kata in codewars: https://www.codewars.com/kata/5db42a943c3c65001dcedb1a
+
 def encoder(data):
     
     dictionary = {0: ''}
